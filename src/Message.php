@@ -2,7 +2,7 @@
 
 namespace composertest;
 
-class ComposerTest {
+class Message {
 
 	private $message;
 
