@@ -1,5 +1,7 @@
 <?php
 
+namespace composertest;
+
 class ComposerTest {
 
 	private $message;
