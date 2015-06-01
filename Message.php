@@ -1,4 +1,5 @@
 <?php
+// Message.php
 
 namespace composertest;
 
