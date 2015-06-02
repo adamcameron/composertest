@@ -1,8 +1,8 @@
 {
     "name": "dac/composertest",
     "autoload": {
-        "psr-0": {
-			"composertest": "src/"
-		}
+        "autoload": {
+        "psr-4": {"composertest\\": "src/"}
+    }
     }
 }
